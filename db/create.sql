@@ -27,4 +27,9 @@ insert into products (name, description, code, price) values ('Liverpool', 'Het 
 insert into products (name, description, code, price) values ('Man United', 'Het Manchester United thuisshirt van 2021/2022', '693155505-7', 69.9);
 insert into products (name, description, code, price) values ('Man City', 'Het Manchester City thuisshirt van 2021/2022', '686928463-6', 69.9);
 insert into products (name, description, code, price) values ('Tottenham Hotspur', 'Het Tottenham Hotspur thuisshirt van 2021/2022', '492662523-7', 69.9);
-
+insert into products (name, description, code, price) values ('Leeds United', 'Het Leeds United thuisshirt van 2021/2022', '709684236-8', 69.9);
+insert into products (name, description, code, price) values ('Leicester City', 'Het Leicester City thuisshirt van 2021/2022', '564098721-3', 69.9);
+insert into products (name, description, code, price) values ('West Ham United', 'Het West Ham United thuisshirt van 2021/2022', '908730214-0', 69.9);
+insert into products (name, description, code, price) values ('Aston Villa', 'Het Aston Villa thuisshirt van 2021/2022', '058763214-9', 69.9);
+insert into products (name, description, code, price) values ('Everton', 'Het Everton thuisshirt van 2021/2022', '132645821-3', 69.9);
+insert into products (name, description, code, price) values ('Wolverhampton Wanderers', 'Het Wolverhampton thuisshirt van 2021/2022', '263749106-5', 69.9);
